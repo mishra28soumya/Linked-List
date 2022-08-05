@@ -8,8 +8,11 @@ AGENDA
 
 2. Types of LinkedList
     a. Singly
+    
     b. doubly
+    
     c. circular
+    
     
 3. Implementation of Linked List
 
@@ -49,3 +52,7 @@ AGENDA
 
 
 6. Searching in a linked list
+
+
+
+jamboard link - https://jamboard.google.com/d/1DlH5RCODmH1hZR_DAHlI6BztGUFbpoeFNhbLryZQvKg/edit?usp=sharing
